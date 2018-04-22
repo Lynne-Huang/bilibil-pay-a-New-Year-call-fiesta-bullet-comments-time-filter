@@ -15,6 +15,10 @@
 ## 程序运行结果分析
 
 ![程序运行结果](https://github.com/Lynne-Huang/bilibil-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/哔哩哔哩弹幕测试运行结果.png "运行结果")
-
-
+### 由图可知：
+ 1. 在头10分钟里总共发了1048576条弹幕（数据量还是很可怕的<br>
+ 2. 在9：54秒开始，弹幕数突然由千条弹幕上升到万条甚至2万条弹幕，可见此时应该是第一个节目的开始，或者是集体喊出口号：哔哩哔哩 (゜-゜)つロ 干杯~-bilibili<br>
+ 3.在9分57秒的时候弹幕数量是前10分钟之最 21358<br>
+ 4.整个程序运行0.462s  这个方法来统计数据还是很快的，第一次写的时候用，读一条匹配加一的方法，快好几倍，具体数据忘了<br>
+ 5.这个程序是[QTNiCheng](https://github.com/QTNiCheng "GitHub地址") 在线上问我Java能否实现python中一个排序小工具，然后自己写了一个
 [程序运行结果]:https://github.com/Lynne-Huang/bilibil-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png
