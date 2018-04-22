@@ -14,4 +14,4 @@
  
 ## 程序运行结果分析
 
-![github](http://www.github.com/Lynne-Huang/bilibili-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/哔哩哔哩弹幕测试运行结果.png "运行结果")
+![程序运行结果](http://www.github.com/Lynne-Huang/bilibili-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/哔哩哔哩弹幕测试运行结果.png "运行结果")
