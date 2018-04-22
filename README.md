@@ -14,5 +14,4 @@
  
 ## 程序运行结果分析
 
-[![哔哩哔哩2015拜年祭弹幕时间分析运行结果图]]https://github.com/Lynne-Huang/bilibil-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/哔哩哔哩弹幕测试运行结果.png
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+![github](http://www.github.com/Lynne-Huang/bilibili-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/哔哩哔哩弹幕测试运行结果.png "运行结果")
