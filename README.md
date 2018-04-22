@@ -12,3 +12,6 @@
  6. 对map排序treemap<br>
  7. 键值升序排序输出<br>
  
+## 程序运行结果分析
+
+[![哔哩哔哩2015拜年祭弹幕时间分析运行结果图]][https://github.com/Lynne-Huang/bilibil-pay-a-New-Year-call-fiesta-bullet-comments-time-filter/blob/master/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%BC%B9%E5%B9%95%E6%B5%8B%E8%AF%95%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png]
